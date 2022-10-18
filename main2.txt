@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 gonezz
+=======
+it's main2
+>>>>>>> 2nd_Branch
